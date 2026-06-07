@@ -26,9 +26,9 @@ from telegram.ext import (
 )
 
 # ========== ⚙️ CONFIGURATION ==========
-BOT_TOKEN = "8690926155:AAEjx73W1qAJHYcBs2q5VRr09v5gTdgDjHw"
-GROQ_API_KEY = "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"
-ADMIN_ID = 6471539208
+BOT_TOKEN = "869####Encrypted "
+GROQ_API_KEY = "gsk_#####Encrypted "
+ADMIN_ID = 647####Encrypted 
 AI_MODEL = "openai/gpt-oss-120b"
 AI_NAME = "كيمو"
 
